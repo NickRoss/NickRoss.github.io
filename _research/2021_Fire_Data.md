@@ -1,6 +1,9 @@
 ---
-layout: projects 
+layout: research
 title: California Fire Statistics
+authors: Nick Ross
+journal: Data Analysis Project
+year: 2021
 mathjax: true
 ---
 

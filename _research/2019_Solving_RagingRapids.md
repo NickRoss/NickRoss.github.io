@@ -1,6 +1,9 @@
 ---
-layout: projects 
-title: Solving Raging Rapids 
+layout: research
+title: Solving Raging Rapids
+authors: Nick Ross
+journal: Personal Project
+year: 2019
 mathjax: true
 ---
 
@@ -12,7 +15,7 @@ A few years ago a [friend](https://sites.google.com/site/rsaoumaedu/) of mine se
 
 The basic puzzle is can you put all 12 paddlers into the white water raft? At the base of each paddler are jigsaw style piece ends along each side. The edges of the raft also feature similar puzzle features. The goal is to put all 12 rafters in the raft facing the same direction. There are actually two solutions, as the rafters can fit in both facing the back of the boat and the front of the boat.
 
-The puzzle arrived on Christmas Day and by the late afternoon I was looking for a diversion to keep me from eating more cookies. After spending a few minutes playing around with the pieces and trying to do it by hand, I realized that I wasn't smart enough, so I start writing some code for it. 
+The puzzle arrived on Christmas Day and by the late afternoon I was looking for a diversion to keep me from eating more cookies. After spending a few minutes playing around with the pieces and trying to do it by hand, I realized that I wasn't smart enough, so I start writing some code for it.
 
 Brute forcing it won't work. At least not on the computer I had at the time -- though I'm certain that there is some clever distributed mechanism that I could have used to spread it over a few different boxes. Or spun up a server. Let's just say that the chromebook that I had at the time (dev mode unix) wasn't going to suffice. There are $$12! \approx 479\text{MM}$$ possible solutions to test.
 
@@ -22,7 +25,7 @@ Given this, I spent some time looking for some "easy wins" that would collapse t
 
 I labeled the pieces (A-L) and spots (0-11), wrote up a couple of helper functions which would evaluate if pieces could fit together and viola! Solution found. Sadly, the person who sent me it was disappointed. -- he thought I cheated.
 
-A couple of take-aways: 
+A couple of take-aways:
 
 1. This was really fun!
 1. The hardest part was setting up the data objects which defined the shapes. There were a number of different types of sides and I wanted to find a way that would allow me to use matrix math operations (rather than for loops) to determine if pieces fit. The initial way that I set this up didn't facilitate these operations and I ended up having to back and recode each piece.

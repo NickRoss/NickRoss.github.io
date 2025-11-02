@@ -1,6 +1,9 @@
 ---
-layout: projects 
+layout: research
 title: Election Prediction (2018-2020)
+authors: Nick Ross and USF Data Science Team
+journal: ABC News Collaboration
+year: 2018
 mathjax: true
 ---
 

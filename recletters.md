@@ -1,8 +1,7 @@
 ---
-layout: careers 
+layout: page
 title: Guidelines for Requesting a Letter of Recommendation for Graduate Programs
-date: Dec 15, 2023
-mathjax: true
+permalink: /recletters/
 ---
 
 <table style="border-collapse: collapse; width: 100%; margin: 20px 0;">
@@ -13,7 +12,7 @@ mathjax: true
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
-      I am now limiting my letter of recommendation (LOR) writing to students with whom I have a substantial, multi-class or multi-project relationship. 
+      I am now limiting my letter of recommendation (LOR) writing to students with whom I have a substantial, multi-class or multi-project relationship.
       <br><br>
       Specifically:
       <ul>

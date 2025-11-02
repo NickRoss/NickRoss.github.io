@@ -17,18 +17,16 @@ This page contains the most recent version of those notes, currently taught to s
 
 The data used in this course can be found in the repository [here](https://github.com/NickRoss/sql-data). Below is the table of contents with links to specific chapters. Please note that some sections are works in progress or TBD.
 
-A combined PDF with all the notes is available [here](/assets/dm_notes/combined_data_notes.pdf). Specific chapters are listed below, but please be aware that links in the chapter-specific PDFs are not currently functional." | markdownify }}.
+A combined PDF with all the notes is available [here](/assets/dm_notes/combined_data_notes.pdf). Specific chapters are listed below, but please be aware that links in the chapter-specific PDFs are not currently functional." | markdownify }}
 
   </div>
 </div>
 
 
-<div>
+<div style="margin-top: 40px;">
 <h2 style="text-align: center;">Table of Contents</h2>
 </div>
 
 <div style = "clear: both;">
 {% include_relative assets/dm_notes/data_management_table.html %}
 </div>
-
-<p style="margin-bottom:100cm;"></p>

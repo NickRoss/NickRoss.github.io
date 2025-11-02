@@ -32,21 +32,15 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 collections:
-  projects:
-    output: true
   classes:
     output: true
   career:
     output: true
-  talks: 
+  talks:
     output: true
   datamanagement:
     output: true
   research:
-    output: true
-  abtesting:
-    output: true
-  notes:
     output: true
 
 
