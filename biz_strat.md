@@ -15,7 +15,7 @@ While teaching in USF's MSDS program, I created a class which would be a miniatu
 
 This course attempts to answer one question: "Why are some companies profitable and others not?" We specifically focus on tech companies and start-ups, as that is where most data science students end up working. Understanding this question, and how non-technical people approach this, allows us to link data-driven analysis to a business. Failing to understand this linkage is the root cause of "not having product sense".
 
-Along the way we also discuss the basics of company formation, role definition (specifically it relates to data science) and the basics of equity and equity compensation.
+Along the way we also discuss the basics of company formation, role definition (specifically as it relates to data science) and the basics of equity and equity compensation.
 
 ## Final thoughts
 
