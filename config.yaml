@@ -1,0 +1,63 @@
+baseURL: "https://nickross.site"
+languageCode: en-us
+title: "Nick Ross"
+theme: ""
+
+# Site params
+params:
+  description: "Doing Stuff"
+  author: "Nick Ross"
+  avatar: "/images/Avatar.png"
+
+# Social/Footer links
+social:
+  github: "NickRoss"
+  linkedin: "drdata"
+
+# Menu configuration
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 20
+    - identifier: career
+      name: Career
+      url: /career/
+      weight: 30
+    - identifier: classes
+      name: Classes
+      url: /classes/
+      weight: 40
+    - identifier: talks
+      name: Talks
+      url: /talks/
+      weight: 50
+
+# Build settings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: "github"
+    lineNos: false
+
+# Output formats
+outputs:
+  home:
+    - HTML
+    - RSS
+
+# Permalinks
+permalinks:
+  posts: /:title/
+
+# Disable taxonomy pages we don't need
+disableKinds:
+  - taxonomy
+  - term
