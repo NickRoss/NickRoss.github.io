@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="page">
+  <h1>{{ .Title }}</h1>
+
+  <div class="entry">
+    {{ .Content }}
+
+    {{ range .Pages }}
+    <p><a href="{{ .RelPermalink }}">{{ .Title }}: {{ .Params.subtitle }} ({{ .Params.years }})</a></p>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

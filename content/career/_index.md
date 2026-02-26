@@ -1,0 +1,7 @@
+---
+title: Career Advice
+---
+
+Over the last (roughly) two decades I have spent a significant amount of energy either hiring people or helping people get jobs. As the Director of USF's practicum program I've helped hundreds of students apply for data science jobs, negotiate salaries and generally navigate the difficulties around employement.
+
+These pages share the advice I've given.

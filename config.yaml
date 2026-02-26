@@ -9,10 +9,10 @@ params:
   author: "Nick Ross"
   avatar: "/images/Avatar.png"
 
-# Social/Footer links
-social:
-  github: "NickRoss"
-  linkedin: "drdata"
+# Social/Footer links (under params for Hugo access via .Site.Params.social)
+  social:
+    github: "NickRoss"
+    linkedin: "drdata"
 
 # Menu configuration
 menu:
