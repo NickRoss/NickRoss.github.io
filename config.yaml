@@ -1,7 +1,6 @@
 baseURL: "https://nickross.site"
 languageCode: en-us
 title: "Nick Ross"
-theme: ""
 
 # Site params
 params:
