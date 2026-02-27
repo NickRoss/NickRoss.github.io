@@ -1,5 +1,5 @@
 ---
-title: Idea&#58 Historical Election Data
+title: "Idea: Historical Election Data"
 authors: Nick Ross
 journal: Project Idea
 year: 2020

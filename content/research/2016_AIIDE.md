@@ -1,5 +1,5 @@
 ---
-title: The Sensitivity of Retention to In-Game Advertisements&#58 An Exploratory Analysis
+title: "The Sensitivity of Retention to In-Game Advertisements: An Exploratory Analysis"
 authors: Zachary Burns, Isaac Roseboom and Nicholas Ross 
 journal:  AIIDE Technical Reports
 year: 2016 
