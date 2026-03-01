@@ -1,7 +1,7 @@
 ---
 event: SF Beer Week 
 title: Beer + Data Science 
-date: February 13, 2017 
+date: 2017-02-13
 mathjax: true
 ---
 

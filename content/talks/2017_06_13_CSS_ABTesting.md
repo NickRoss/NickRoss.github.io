@@ -1,7 +1,7 @@
 ---
 event: Canadian Statistical Society Annual Meeting 
 title: Practical Testing 
-date: June 13th, 2017 
+date: 2017-06-13
 mathjax: true
 ---
 

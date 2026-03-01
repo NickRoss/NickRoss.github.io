@@ -1,6 +1,6 @@
 ---
 title: The only 5 things you can do to get a job
-date: November 1, 2025
+date: 2025-11-01
 mathjax: true
 ---
 
@@ -34,7 +34,7 @@ It's important to get your face out there so that people know who you are and wh
 
 A lot of people dislike networking (I am one of them), so try to find ways to network that are less icky for you. For myself, I enjoy going to technical meetups -- even in areas that I'm not as familiar with! At a bare minimum I'm learning something new! Granted, this probably isn't as valuable as going to a data-centric meetup or a career fair for data science, but it is better than nothing and there is a lot of overlap between data and general tech.
 
-Be organized in your networking! This person, [for example](https://www.andreapopova.com/blog/how-i-landed-10-interviews-during-covid) did a great job of identifying people and pushing the right buttons.  
+Be organized in your networking! This person, [for example](https://www.andreapopova.com/blog/how-i-landed-10-interviews-during-covid) (dead link) did a great job of identifying people and pushing the right buttons.  
 
 When I network I try to do specific things (and at least identify a few of them ahead of time). Am I here to get to know a particular company I know will be in attendance? Am I here to catch up with a friend? What can I do to maximize this experience? I often see new grads at these events walking up to every person asking some variant of "do you know of any jobs" -- this isn't maximizing the experience and comes off as both aggressive and negative.
 

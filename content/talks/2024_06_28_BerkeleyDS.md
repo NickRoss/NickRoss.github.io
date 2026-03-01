@@ -1,7 +1,7 @@
 ---
 event: 2024 National Workshop on Data Science Education
 title: Experiential Data Science Learning at the University of Chicago
-date: June 6th, 2024
+date: 2024-06-06
 mathjax: true
 ---
 

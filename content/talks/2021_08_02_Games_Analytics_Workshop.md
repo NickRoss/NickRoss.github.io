@@ -1,7 +1,7 @@
 ---
 event: Games Analytics Workshop
 title: A/B Testing Incorrectly
-date: August 8, 2021
+date: 2021-08-08
 mathjax: true
 ---
 
