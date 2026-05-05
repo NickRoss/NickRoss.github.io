@@ -1,5 +1,4 @@
 ---
-layout: classes
 title: AI Development
 subtitle: AI Development Training Series
 level: Undergraduate

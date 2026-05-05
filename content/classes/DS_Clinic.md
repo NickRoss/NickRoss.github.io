@@ -1,5 +1,4 @@
 ---
-layout: classes
 title: Data Science Clinic
 subtitle: Experiential Project-Based Data Science
 level: Masters / Undergraduate
