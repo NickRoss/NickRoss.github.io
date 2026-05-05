@@ -4,6 +4,7 @@ subtitle: Product Analytics
 level: Masters of Data Science 
 classType: Data Science
 years: 2018, 2019, 2020, 2022
+date: 2022-01-01
 mathjax: true
 ---
 

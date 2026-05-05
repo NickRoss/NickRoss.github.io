@@ -5,7 +5,7 @@
   <div class="entry">
     {{ .Content }}
 
-    {{ range .Pages }}
+    {{ range .Pages.ByDate.Reverse }}
     <p><a href="{{ .RelPermalink }}">{{ .Title }}: {{ .Params.subtitle }} ({{ .Params.years }})</a></p>
     {{ end }}
   </div>

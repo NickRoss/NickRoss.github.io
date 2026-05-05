@@ -4,6 +4,7 @@ subtitle: AI Development Training Series
 level: Undergraduate
 classType: Data Science
 years: Winter 2026, Spring 2026
+date: 2026-01-01
 mathjax: true
 ---
 

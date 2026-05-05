@@ -4,6 +4,7 @@ subtitle: ML for Business / DS for Product Managers
 level: Professional
 classType: Data Science
 years: 2018, 2019
+date: 2019-01-01
 mathjax: true
 ---
 

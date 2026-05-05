@@ -4,6 +4,7 @@ subtitle: Business Communication
 level: Masters
 classType: Data Science
 years: 2015, 2016, 2017
+date: 2017-01-01
 mathjax: true
 ---
 

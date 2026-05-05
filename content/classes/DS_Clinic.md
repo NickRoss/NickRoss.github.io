@@ -4,6 +4,7 @@ subtitle: Experiential Project-Based Data Science
 level: Masters / Undergraduate
 classType: Data Science
 years: 2022-Present
+date: 2026-01-01
 mathjax: true
 ---
 

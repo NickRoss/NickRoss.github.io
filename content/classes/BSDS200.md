@@ -3,7 +3,8 @@ title: BSDS 200
 subtitle: Applied Data Science Methods
 level: Undergraduate
 classType: Data Science
-years: Spring 2020 
+years: Spring 2020
+date: 2020-01-01
 mathjax: true
 ---
 

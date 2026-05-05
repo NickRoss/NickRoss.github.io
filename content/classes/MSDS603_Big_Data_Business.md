@@ -4,6 +4,7 @@ subtitle: Big Data Business Strategies
 level: Masters
 classType: Data Science
 years: 2014, 2015, 2016
+date: 2016-01-01
 mathjax: true
 ---
 

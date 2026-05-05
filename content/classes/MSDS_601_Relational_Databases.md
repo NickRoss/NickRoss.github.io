@@ -4,6 +4,7 @@ subtitle: Relational Databases
 level: Masters of Data Science 
 classType: Data Science
 years: 2014-2019
+date: 2019-01-01
 mathjax: true
 ---
 
