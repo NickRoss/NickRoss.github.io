@@ -41,7 +41,7 @@ If you cannot provide these materials at least 30 days before the first deadline
 - **Acquaintance Level:** The strength of the LOR is directly related to how well I know the applicant.
   - **Minimal Acquaintance:** If our interaction was limited to a single class or academic term where you performed well, my ability to write a detailed and impactful letter is limited. Such letters are typically brief and less impactful.
   - **Extensive Interaction:** If we have had multiple interactions (e.g., you were a teaching assistant, I was your mentor, you attended multiple courses I taught, etc.), the letter will likely be more substantial and compelling.
-- **Experience:** The strength of the LOR is also proportional to the experience itself. If I worked with you in a way that was not a positive experience for me such as you disappeared for a month or were just unpleasant or unprofessional these will not yield strong letters.
+- **Experience:** The strength of the LOR is also proportional to the experience itself. If I worked with you in a way that was not a positive experience for me, such as if you disappeared for a month, were unpleasant, or were unprofessional, these will not yield strong letters.
 
 Before asking me to write a letter, consider whether I am familiar enough with your academic and professional achievements to write a strong recommendation. Feel free to discuss this with me for an honest assessment.
 

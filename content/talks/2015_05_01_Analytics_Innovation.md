@@ -5,5 +5,5 @@ date: 2015-05-01
 mathjax: true
 ---
 
-This was an longer, updated version of the talk that I previously. This talk went into a number of specific examples of when interpreting funnels as well as best practices that should be used. Some information about the summit can be found [here](/assets/GamingAnalytics-Brochure.pdf) 
+This was a longer, updated version of the talk that I gave previously. This talk went into a number of specific examples of when interpreting funnels as well as best practices that should be used. Some information about the summit can be found [here](/assets/GamingAnalytics-Brochure.pdf) 
 
