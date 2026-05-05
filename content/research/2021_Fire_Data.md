@@ -14,7 +14,5 @@ The below chart shows fire consumption normalized to the size of California (and
 
 The source of the data is [Cal Fire Stats](https://www.fire.ca.gov/stats-events/).
 
-<div style="text-align: center;">
-  <img src="/images/fire.webp" alt="Chart showing California wildfire statistics as percentage of state burned annually with 5 and 10 year rolling totals" style="width: 90%;">
-</div>
+<iframe src="/charts/fire_stats.html" width="100%" height="500" style="border:none;"></iframe>
 
