@@ -3,7 +3,7 @@ title: Data Science Clinic
 subtitle: Experiential Project-Based Data Science
 level: Masters / Undergraduate
 classType: Data Science
-years: 2022-Present
+years: 2022-2026
 date: 2026-01-01
 mathjax: true
 ---

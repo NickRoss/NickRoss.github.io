@@ -6,17 +6,17 @@ url: /mylab/
 <table style="border-collapse: collapse; width: 100%; margin: 20px 0;">
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
-      <strong>Job Postings and Lab Openings</strong>
+      <strong>Update 7/2025</strong>
     </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
-      All current job postings and lab openings can be found on the <a href="https://datascience.uchicago.edu/about/jobs/">DSI Jobs Page</a>.
+      I have left the University of Chicago. The information below is preserved for historical reference.
     </td>
   </tr>
 </table>
 
-I manage two research and educational labs at the University of Chicago's Data Science Institute, both focused on advancing data science research, education, and real-world impact.
+I managed two research and educational labs at the University of Chicago's Data Science Institute, both focused on advancing data science research, education, and real-world impact.
 
 ### Data Science Clinic
 

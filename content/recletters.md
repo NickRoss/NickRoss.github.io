@@ -6,6 +6,19 @@ url: /recletters/
 <table style="border-collapse: collapse; width: 100%; margin: 20px 0;">
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
+      <strong>Update 7/2025</strong>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 15px;">
+      I am no longer writing letters of recommendation. Thank you for your understanding and good luck on your application.
+    </td>
+  </tr>
+</table>
+
+<table style="border-collapse: collapse; width: 100%; margin: 20px 0;">
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 15px;">
       <strong>Update 10/30/24</strong>
     </td>
   </tr>
