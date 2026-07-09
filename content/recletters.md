@@ -6,7 +6,7 @@ url: /recletters/
 <table style="border-collapse: collapse; width: 100%; margin: 20px 0;">
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
-      <strong>Update 7/2025</strong>
+      <strong>Update 7/2026</strong>
     </td>
   </tr>
   <tr>
