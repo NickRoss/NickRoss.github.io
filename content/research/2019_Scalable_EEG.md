@@ -3,6 +3,7 @@ title: A Scalable Automated Diagnostic Feature Extraction System for EEGs
 authors: Abbie Popa, Prakhar Agrawal, Divya Bhargavi, Gokul Krishna G, Xiao Han, Neha Tevathia, Nicholas Ross, Diane Myung-Kyung Woodbridge, Barbie Zimmerman-Bier and William Bosl
 journal: Proceedings of IEEE COMPSAC 
 year: 2019
+date: 2019-07-15
 mathjax: true
 ---
 

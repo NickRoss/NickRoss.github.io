@@ -3,6 +3,7 @@ title: California Fire Statistics
 authors: Nick Ross
 journal: Data Analysis Project
 year: 2021
+date: 2021-01-01
 mathjax: true
 ---
 

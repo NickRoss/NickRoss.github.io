@@ -3,6 +3,7 @@ title: Controversy Score Calculation for News Articles
 authors: Paul Kim, Ziyu Fan, Lance Fernando, Jacques Sham, Crystal Sun, Yixin Sun, Brian Wright, Xi Yang, Nicholas Ross and Diane Myung-Kyung Woodbridge 
 journal:  Proceedings of the TransAI Conference 
 year: 2019
+date: 2019-09-25
 mathjax: true
 ---
 

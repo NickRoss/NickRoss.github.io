@@ -3,6 +3,7 @@ title: Solving Raging Rapids
 authors: Nick Ross
 journal: Personal Project
 year: 2019
+date: 2019-12-25
 mathjax: true
 ---
 

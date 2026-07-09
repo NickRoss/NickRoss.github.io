@@ -3,6 +3,7 @@ title: Election Prediction (2018-2020)
 authors: Nick Ross and USF Data Science Team
 journal: ABC News Collaboration
 year: 2018
+date: 2018-11-06
 mathjax: true
 ---
 

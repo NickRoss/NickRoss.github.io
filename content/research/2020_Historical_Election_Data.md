@@ -3,6 +3,7 @@ title: "Idea: Historical Election Data"
 authors: Nick Ross
 journal: Project Idea
 year: 2020
+date: 2020-01-01
 mathjax: true
 ---
 
