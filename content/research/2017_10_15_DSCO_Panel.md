@@ -2,6 +2,9 @@
 event: USF DSCO Conference 
 title: The State of Data Science in Industry 
 date: 2017-10-15
+type: talk
+aliases:
+  - /talks/2017_10_15_dsco_panel/
 mathjax: true
 ---
 

@@ -2,6 +2,9 @@
 event: Canadian Statistical Society Annual Meeting 
 title: Practical Testing 
 date: 2017-06-13
+type: talk
+aliases:
+  - /talks/2017_06_13_css_abtesting/
 mathjax: true
 ---
 

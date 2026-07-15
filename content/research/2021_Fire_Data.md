@@ -4,6 +4,7 @@ authors: Nick Ross
 journal: Data Analysis Project
 year: 2021
 date: 2021-01-01
+type: project
 mathjax: true
 ---
 

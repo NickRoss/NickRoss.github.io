@@ -32,10 +32,6 @@ menu:
       name: Classes
       url: /classes/
       weight: 40
-    - identifier: talks
-      name: Talks
-      url: /talks/
-      weight: 50
 
 # Build settings
 markup:

@@ -4,6 +4,7 @@ authors: Abbie Popa, Prakhar Agrawal, Divya Bhargavi, Gokul Krishna G, Xiao Han,
 journal: Proceedings of IEEE COMPSAC 
 year: 2019
 date: 2019-07-15
+type: paper
 mathjax: true
 ---
 

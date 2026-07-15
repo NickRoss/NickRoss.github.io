@@ -4,6 +4,7 @@ authors: Deena John, Ernest Kim, Kunal Kotian, Ker Yu Ong, Tyler White, Luba Glo
 journal: Proceedings of IEEE CCNC
 year: 2019
 date: 2019-01-11
+type: paper
 mathjax: true
 ---
 

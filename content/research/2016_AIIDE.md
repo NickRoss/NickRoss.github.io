@@ -4,6 +4,7 @@ authors: Zachary Burns, Isaac Roseboom and Nicholas Ross
 journal:  AIIDE Technical Reports
 year: 2016
 date: 2016-10-08
+type: paper
 mathjax: true
 ---
 

@@ -2,6 +2,9 @@
 event: Nerd Nite SF 
 title: Debits and Credits and Fraud... Oh my! 
 date: 2013-12-18
+type: talk
+aliases:
+  - /talks/2013_12_18_nerd_night/
 mathjax: true
 ---
 

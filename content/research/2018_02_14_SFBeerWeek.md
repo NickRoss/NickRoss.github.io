@@ -2,6 +2,9 @@
 event: SF Beer Week 
 title: Beer + Data Science 
 date: 2018-02-14
+type: talk
+aliases:
+  - /talks/2018_02_14_sfbeerweek/
 mathjax: true
 ---
 

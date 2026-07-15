@@ -2,6 +2,9 @@
 event: Games Analytics Workshop
 title: A/B Testing Incorrectly
 date: 2021-08-08
+type: talk
+aliases:
+  - /talks/2021_08_02_games_analytics_workshop/
 mathjax: true
 ---
 

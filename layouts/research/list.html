@@ -5,8 +5,18 @@
   <div class="entry">
     {{ .Content }}
 
+    <p class="research-legend">
+      <span class="research-tag tag-paper">Paper</span>
+      <span class="research-tag tag-talk">Talk</span>
+      <span class="research-tag tag-project">Project</span>
+      <span class="research-tag tag-press">Press</span>
+    </p>
+
     {{ range .Pages.ByDate.Reverse }}
-    <p><h4><a href="{{ .RelPermalink }}">{{ .Title }} ({{ .Params.year }})</a></h4></p>
+    <p>
+      <span class="research-tag tag-{{ .Params.type | default "paper" }}">{{ .Params.type | default "paper" }}</span>
+      <a href="{{ .RelPermalink }}">{{ .Title }} ({{ .Date.Format "2006" }})</a>
+    </p>
     {{ end }}
   </div>
 </article>

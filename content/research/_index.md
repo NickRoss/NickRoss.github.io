@@ -2,4 +2,4 @@
 title: Research
 ---
 
-In this section you can find information about the papers I've published, their abstracts and links.
+In this section you can find talks, published research, data projects, and press articles.

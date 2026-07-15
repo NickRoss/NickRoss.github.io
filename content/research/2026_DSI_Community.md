@@ -4,6 +4,7 @@ authors: Data Science Institute
 journal: UChicago DSI
 year: 2026
 date: 2026-05-28
+type: talk
 mathjax: true
 ---
 

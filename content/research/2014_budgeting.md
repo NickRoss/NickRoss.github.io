@@ -4,6 +4,7 @@ authors: Mirko Heinle Richard Saouma and Nicholas Ross
 journal:  The Accounting Review
 year: 2014
 date: 2014-05-01
+type: paper
 mathjax: true
 ---
 

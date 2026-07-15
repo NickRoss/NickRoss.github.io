@@ -287,6 +287,43 @@ footer {
   text-align: center;
 }
 
+// Research page color-coded tags
+.research-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-right: 6px;
+  min-width: 55px;
+  text-align: center;
+}
+
+.tag-paper {
+  background-color: #dbeafe;
+  color: #1e40af;
+}
+
+.tag-talk {
+  background-color: #dcfce7;
+  color: #166534;
+}
+
+.tag-project {
+  background-color: #ffedd5;
+  color: #9a3412;
+}
+
+.tag-press {
+  background-color: #f3e8ff;
+  color: #6b21a8;
+}
+
+.research-legend {
+  margin-bottom: 20px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

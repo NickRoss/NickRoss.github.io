@@ -2,6 +2,9 @@
 event: Gaming Analytics and Innovation Summit 
 title: Principles of Funnel Analysis 
 date: 2015-05-01
+type: talk
+aliases:
+  - /talks/2015_05_01_analytics_innovation/
 mathjax: true
 ---
 

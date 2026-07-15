@@ -4,6 +4,7 @@ authors: Data Science Institute
 journal: UChicago DSI
 year: 2022
 date: 2022-08-11
+type: press
 mathjax: true
 ---
 

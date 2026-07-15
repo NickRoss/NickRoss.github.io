@@ -2,10 +2,11 @@
 <article class="class">
   <h1>{{ .Title }}</h1>
 
-  <h3>{{ .Params.authors }}</h3>
+  {{ with .Params.authors }}<h3>{{ . }}</h3>{{ end }}
+  {{ with .Params.event }}<h3>{{ . }}</h3>{{ end }}
 
   <div class="entry">
-    Abstract: {{ .Content }}
+    {{ if eq .Params.type "paper" }}Abstract: {{ end }}{{ .Content }}
   </div>
 
   {{ if .Params.mathjax }}

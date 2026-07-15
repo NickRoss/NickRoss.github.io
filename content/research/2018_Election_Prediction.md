@@ -4,6 +4,7 @@ authors: Nick Ross and USF Data Science Team
 journal: ABC News Collaboration
 year: 2018
 date: 2018-11-06
+type: project
 mathjax: true
 ---
 

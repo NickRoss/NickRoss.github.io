@@ -2,6 +2,9 @@
 event: Open Mobile Summit  
 title: Real Revenues from Real Time Bidding 
 date: 2012-11-07
+type: talk
+aliases:
+  - /talks/2012_11_09_mobile_summit/
 mathjax: true
 ---
 
